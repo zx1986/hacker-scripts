@@ -19,7 +19,7 @@ _[真人真事](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hack
 > yyy：你個熊寶寶，這個我也要！
 
 原始出處： http://bash.im/quote/436725 (俄文)   
-歡迎任何語言的實做 (Python, Perl, Shell 等)
+歡迎任何語言的實做 (Python, Perl, Ruby 等)
 
 ## 使用方式
 
